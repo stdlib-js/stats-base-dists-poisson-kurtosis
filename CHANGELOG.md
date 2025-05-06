@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-05-06)
+
+<section class="features">
+
+### Features
+
+-   [`e37cd0e`](https://github.com/stdlib-js/stdlib/commit/e37cd0eba13fa6acb6488f44b710502057d4cfc4) - add C implementation for `stats/base/dists/poisson/kurtosis` [(#4032)](https://github.com/stdlib-js/stdlib/pull/4032)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#4984](https://github.com/stdlib-js/stdlib/issues/4984), [#5126](https://github.com/stdlib-js/stdlib/issues/5126)
+[#3787](https://github.com/stdlib-js/stdlib/issues/3787), [#4984](https://github.com/stdlib-js/stdlib/issues/4984), [#5126](https://github.com/stdlib-js/stdlib/issues/5126)
 
 </section>
 
@@ -24,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`e37cd0e`](https://github.com/stdlib-js/stdlib/commit/e37cd0eba13fa6acb6488f44b710502057d4cfc4) - **feat:** add C implementation for `stats/base/dists/poisson/kurtosis` [(#4032)](https://github.com/stdlib-js/stdlib/pull/4032) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 -   [`bd61ef0`](https://github.com/stdlib-js/stdlib/commit/bd61ef01645b4128484f9a87532724fdba990c03) - **bench:** address commit comments [(#5137)](https://github.com/stdlib-js/stdlib/pull/5137) _(by pranav-1720)_
 -   [`28b78a0`](https://github.com/stdlib-js/stdlib/commit/28b78a0590907a6757bc6fd4c9e88d9109280950) - **bench:** refactor random number generation in `stats/base/dists/poisson` [(#5106)](https://github.com/stdlib-js/stdlib/pull/5106) _(by pranav-1720)_
 
@@ -37,8 +48,10 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Manvith M
+-   Philipp Burckhardt
 -   pranav-1720
 
 </section>
