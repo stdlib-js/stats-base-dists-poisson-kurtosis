@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-05-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`c24ea87`](https://github.com/stdlib-js/stdlib/commit/c24ea877723f2ac751abb70e8d3f38362f846a43) - **test:** add missing skips for native add-on tests _(by Philipp Burckhardt)_
 -   [`e37cd0e`](https://github.com/stdlib-js/stdlib/commit/e37cd0eba13fa6acb6488f44b710502057d4cfc4) - **feat:** add C implementation for `stats/base/dists/poisson/kurtosis` [(#4032)](https://github.com/stdlib-js/stdlib/pull/4032) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 -   [`bd61ef0`](https://github.com/stdlib-js/stdlib/commit/bd61ef01645b4128484f9a87532724fdba990c03) - **bench:** address commit comments [(#5137)](https://github.com/stdlib-js/stdlib/pull/5137) _(by pranav-1720)_
 -   [`28b78a0`](https://github.com/stdlib-js/stdlib/commit/28b78a0590907a6757bc6fd4c9e88d9109280950) - **bench:** refactor random number generation in `stats/base/dists/poisson` [(#5106)](https://github.com/stdlib-js/stdlib/pull/5106) _(by pranav-1720)_
